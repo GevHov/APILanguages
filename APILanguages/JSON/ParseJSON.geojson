@@ -1,0 +1,34 @@
+//URL
+//http://37.252.64.49:50000/Languages
+
+{
+    "status": 311001,
+    "message": "Տեղեկությունը հաջողությամբ հավաքագրվել է։",
+    "data": [
+        {
+            "id": 1,
+            "code": "hy-AM",
+            "active": true,
+            "defaults": true,
+            "translation": "Հայերեն",
+            "created": "2022-01-31T16:36:10.03"
+        },
+        {
+            "id": 2,
+            "code": "ru-RU",
+            "active": true,
+            "defaults": false,
+            "translation": "Русский",
+            "created": "2022-01-31T16:36:10.03"
+        },
+        {
+            "id": 3,
+            "code": "en-US",
+            "active": true,
+            "defaults": false,
+            "translation": "English",
+            "created": "2022-01-31T16:36:10.03"
+        }
+    ]
+}
+
